@@ -115,7 +115,7 @@ def add():
 
 @app.route("/")
 def home():
-    return "License server online"
+    return "License server online 1"
 
 
 if __name__ == "__main__":
